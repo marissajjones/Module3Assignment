@@ -1,0 +1,11 @@
+form {
+  width: 100px;
+}
+
+input {
+  width: 200px;
+}
+
+::placeholder {
+  color: red;
+}
